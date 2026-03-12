@@ -71,14 +71,36 @@ https://hardiklodhari.neocities.org/
 
 # 🚀 Featured Projects
 
-### ☕ Cloud 9 Cafe
+### ☕ Cloud 9 Cafe  
 Cafe management system for handling orders, billing, and operations.
 
-### 🌍 GVEMS
+👉 **[View Repository](https://github.com/MordeXd/cloud_9_cafe)**  
+
+---
+
+### 🌍 GVEMS  
 Visa management system built using **Laravel**.
 
-### 📚 StudyFlow
+👉 **[View Repository](https://github.com/MordeXd/gvems)**  
+
+---
+
+### 📚 StudyFlow  
 Project management and study system built with **Next.js + Firebase**.
+
+👉 **[View Repository](https://github.com/MordeXd/StudyFlow)**  
+
+---
+
+### 🎬 YouTube Video Downloader  
+A web app that allows users to download YouTube videos using **Python, Flask, and Streamlit**.
+
+Features:
+- Download videos in different resolutions
+- Simple UI using Streamlit
+- Fast processing with Python backend
+
+👉 **[View Repository](https://github.com/MordeXd/yt_downloader)**
 
 ---
 
